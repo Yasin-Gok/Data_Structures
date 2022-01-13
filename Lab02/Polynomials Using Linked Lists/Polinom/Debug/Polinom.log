@@ -1,0 +1,5 @@
+﻿  Poly.cpp
+d:\yasin\programlama\c++\polinom\polinom\poly.cpp(317): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  main.cpp
+  Generating Code...
+  Polinom.vcxproj -> D:\Yasin\Programlama\C++\Polinom\Debug\Polinom.exe

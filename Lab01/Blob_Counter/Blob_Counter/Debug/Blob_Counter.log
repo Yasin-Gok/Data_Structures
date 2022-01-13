@@ -1,0 +1,6 @@
+﻿  Blob.cpp
+d:\yasin\programlama\c++\blob_counter\blob_counter\blob.cpp(187): warning C4018: '<': signed/unsigned mismatch
+d:\yasin\programlama\c++\blob_counter\blob_counter\blob.cpp(201): warning C4018: '<': signed/unsigned mismatch
+d:\yasin\programlama\c++\blob_counter\blob_counter\blob.cpp(203): warning C4018: '<': signed/unsigned mismatch
+d:\yasin\programlama\c++\blob_counter\blob_counter\blob.cpp(239): warning C4018: '<': signed/unsigned mismatch
+  Blob_Counter.vcxproj -> D:\Yasin\Programlama\C++\Blob_Counter\Debug\Blob_Counter.exe

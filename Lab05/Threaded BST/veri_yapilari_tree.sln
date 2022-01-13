@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1259
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "veri_yapilari_tree", "veri_yapilari_tree\veri_yapilari_tree.vcxproj", "{DCCCC6B9-10DF-4B2E-B531-421022C7532F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCCCC6B9-10DF-4B2E-B531-421022C7532F}.Debug|x64.ActiveCfg = Debug|x64
+		{DCCCC6B9-10DF-4B2E-B531-421022C7532F}.Debug|x64.Build.0 = Debug|x64
+		{DCCCC6B9-10DF-4B2E-B531-421022C7532F}.Debug|x86.ActiveCfg = Debug|Win32
+		{DCCCC6B9-10DF-4B2E-B531-421022C7532F}.Debug|x86.Build.0 = Debug|Win32
+		{DCCCC6B9-10DF-4B2E-B531-421022C7532F}.Release|x64.ActiveCfg = Release|x64
+		{DCCCC6B9-10DF-4B2E-B531-421022C7532F}.Release|x64.Build.0 = Release|x64
+		{DCCCC6B9-10DF-4B2E-B531-421022C7532F}.Release|x86.ActiveCfg = Release|Win32
+		{DCCCC6B9-10DF-4B2E-B531-421022C7532F}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8ECC06F5-D8F6-4249-A6DA-2CD4716C3997}
+	EndGlobalSection
+EndGlobal
